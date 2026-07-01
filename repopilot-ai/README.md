@@ -182,7 +182,7 @@ RepoPilot AI uses `RepoPilotState` (31 fields) as the `state_schema` for shared 
    git add .
    git commit -m "Initial commit: repopilot-ai ADK agent"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/repopilot-ai.git
+   git remote add origin https://github.com/Hemanthpp/RepoPilot-AI.git
    git push -u origin main
    ```
 
