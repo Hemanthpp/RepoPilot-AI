@@ -33,3 +33,6 @@ terraform.tfstate.backup
 
 # Artifacts & traces
 artifacts/
+deployment_metadata.json
+/*test*.py
+* - Copy.*
