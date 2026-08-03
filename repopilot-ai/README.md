@@ -207,12 +207,6 @@ RepoPilot AI uses `RepoPilotState` (31 fields) as the `state_schema` for shared 
 
 ---
 
-## Demo Script
-
-See [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt) for a 3–4 minute spoken narration to accompany a live demo.
-
----
-
 ## License
 
 This project was built for the Google ADK Agents Capstone.
