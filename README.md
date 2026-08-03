@@ -7,7 +7,6 @@ Welcome to the root repository for RepoPilot AI! This project takes a GitHub or 
 ## 📁 Repository Structure
 
 - **[`repopilot-ai/`](repopilot-ai/)** - The main application code and agent logic. **Start here** for the primary project files, instructions, and tests.
-- **[`agent_builder_playbook.md`](agent_builder_playbook.md)** - Documentation and playbook for building agents.
 
 ## 🚀 Quick Start
 
